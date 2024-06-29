@@ -20,3 +20,5 @@ while run:
             chessboard.btn_up(event.button, event.pos)
         if event.type == pg.MOUSEMOTION:
             chessboard.drag(event.pos)
+
+            
